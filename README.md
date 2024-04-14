@@ -4,5 +4,5 @@ The analysis aims to understand factors influencing passenger satisfaction and e
 
 ## Contents:
 - Dataset: The dataset used for analysis, including passenger satisfaction surveys and relevant additional data.
-- Jupyter Notebooks: Jupyter Notebook files containing code for exploratory data analysis, visualizations, and predictive modeling if applicable.
+- Jupyter Notebook: Jupyter Notebook file containing code for exploratory data analysis, visualizations, and predictive modeling if applicable.
 - Report: Summary of key findings and conclusions drawn from the data analysis.
